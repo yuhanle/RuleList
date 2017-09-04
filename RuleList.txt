@@ -1,10 +1,10 @@
-; Summary: Example Rule List
+; Summary: Rule List
 
-; Author: Mhd Hejazi (my@email)
+; Author: yuhanle
 
-; Date: 2010-01-20
+; Date: 2017-01-20
 
-; URL: http://samabox.com/projects/chrome/switchy/switchyrules.txt
+; URL: https://github.com/yuhanle/RuleList/blob/master/RuleList.txt
 
 
 
@@ -17,6 +17,25 @@
 *://chrome.google.com/*
 
 *://*.samabox.com/*
+
+#famuos
+
+*google.com*
+
+*youtube.com*
+
+*eliyar.biz*
+
+*disqus.com*
+
+#work
+
+*flaticon.com*
+
+*icons8.com*
+
+*atlassian.com*
+
 
 
 
