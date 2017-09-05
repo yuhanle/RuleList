@@ -14,10 +14,6 @@
 
 [Wildcard]
 
-*://chrome.google.com/*
-
-*://*.samabox.com/*
-
 *google.com*
 
 *youtube.com*
@@ -34,12 +30,9 @@
 
 
 
-
 [RegExp]
 
 ^http://code\.google\.com/.*
-
-youtube
 
 
 
