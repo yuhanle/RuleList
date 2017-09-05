@@ -4,7 +4,7 @@
 
 ; Date: 2017-01-20
 
-; URL: https://github.com/yuhanle/RuleList/blob/master/RuleList.txt
+; URL: https://raw.githubusercontent.com/yuhanle/RuleList/master/RuleList.txt
 
 
 
