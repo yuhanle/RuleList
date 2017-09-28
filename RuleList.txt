@@ -32,7 +32,7 @@
 
 *facebook.com*
 
-
+*stackoverflow.com*
 
 [RegExp]
 
