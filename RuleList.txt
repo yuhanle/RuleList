@@ -14,7 +14,7 @@
 
 [Wildcard]
 
-*google.com*
+*google.*
 
 *youtube.com*
 
